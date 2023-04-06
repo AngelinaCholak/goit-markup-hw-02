@@ -1,11 +1,18 @@
 :root{
-    
+
 }
 
 body {
 font-family: Roboto, sans-serif;
 color: #434455;
 background-color: #FFFFFF;
+}
+:link{
+text-decoration: none;
+
+}
+.list{
+list-style: none;
 }
 
 .logo {
