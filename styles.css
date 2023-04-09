@@ -40,7 +40,7 @@ color: #4d5ae5;
 
 .address{
     font-style: normal;
-    
+
 }
 span{
     color: #2e2f42;
@@ -139,4 +139,15 @@ background-color: #404BBF;
 .Contacts{
     background-color: #F4F4FD;
     
+}
+/* Section 4 */
+
+.footer{
+
+     background-color: #2e2f42;
+
+}
+.span{
+    color:#f4f4fd;
+  
 }
