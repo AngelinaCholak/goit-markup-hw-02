@@ -138,9 +138,10 @@ background-color: #404BBF;
 
 .Contacts{
     background-color: #F4F4FD;
+
     
 }
-/* Section 4 */
+/* footer*/
 
 .footer{
 
@@ -150,4 +151,11 @@ background-color: #404BBF;
 .span{
     color:#f4f4fd;
   
+}
+.paragraph-Contacts{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    
 }
