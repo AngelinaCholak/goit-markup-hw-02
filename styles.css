@@ -37,6 +37,11 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
+
+.address{
+    font-style: normal;
+    
+}
 span{
     color: #2e2f42;
 }
