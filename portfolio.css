@@ -1,3 +1,6 @@
+:root {
+
+}
 
 .list {
     list-style: none;
@@ -43,6 +46,6 @@ text{
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #434455;
-    
+
 
 }
