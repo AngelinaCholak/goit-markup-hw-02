@@ -7,7 +7,8 @@ font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #FFFFFF;
 }
-:link{
+
+.link {
 text-decoration: none;
 }
 
@@ -16,11 +17,11 @@ text-decoration: none;
 font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455
-;
+color: #434455;
+
 }
 
-.test-link:hover{ 
+.test-link:hover { 
     color: #434455;
 
 }
@@ -70,12 +71,12 @@ color: #404bbf;
 
 /* Section  */
 
-section{
+.section {
     background-color: #2e2f42;
 
 }
 
-.text{
+.text {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -85,7 +86,7 @@ section{
 }
 
 
-button{
+.button{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -98,11 +99,11 @@ button{
 }
 
 
-button:hover{
+.button:hover {
 background-color: #404BBF;
 
 }
-button:focus{
+.button:focus{
 background-color: #404BBF;
 }
 
@@ -127,7 +128,7 @@ background-color: #404BBF;
  }
 /* Section 3 */
 
-.Portfolio{
+.portfolio{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -139,7 +140,7 @@ background-color: #404BBF;
 
 /* Section 4 */
 
-.Contacts{
+.contacts{
     background-color: #F4F4FD;
 
     
@@ -155,7 +156,7 @@ background-color: #404BBF;
     color:#f4f4fd;
   
 }
-.paragraph-Contacts{
+.paragraph-contacts{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
