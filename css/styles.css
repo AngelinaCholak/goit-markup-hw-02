@@ -112,7 +112,7 @@ background-color: #404BBF;
 .studio{
     
 }
- .title{
+ .title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -120,7 +120,7 @@ background-color: #404BBF;
     color: #2e2f42;
  }
 
- .paragraph{
+ .paragraph {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -128,7 +128,7 @@ background-color: #404BBF;
  }
 /* Section 3 */
 
-.portfolio{
+.portfolio {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -149,7 +149,7 @@ background-color: #404BBF;
     background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2
+    line-height: 1.2;
 
 }
 /* footer*/
