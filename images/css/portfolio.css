@@ -5,14 +5,14 @@
 .list {
     list-style: none;
 }
-.link{
+.link {
     text-decoration: none;
 }
-.span-portfolio{
+.span-portfolio { 
     color: #2e2f42;
 
 }
-.nav-link{
+.nav-link {
 
     font-weight: 500;
     font-size: 16px;
