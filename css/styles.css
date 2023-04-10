@@ -231,7 +231,7 @@ background-color: #404BBF;
     font-style: normal;
 }
 
-.button {
+.button-button {
 
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -244,13 +244,13 @@ background-color: #404BBF;
 
 }
 
-.button:hover {
+.button-button:hover {
     color: #FFFFFF;
     background-color: #404BBF;
 
 }
 
-.button:focus {
+.button-button:focus {
     color: #FFFFFF;
     background-color: #404BBF;
 
