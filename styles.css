@@ -24,7 +24,7 @@ color: #434455
     color: #434455;
 
 }
-.list{
+.list {
 list-style: none;
 }
 
@@ -38,11 +38,11 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
-.address{
+.address {
     font-style: normal;
 
 }
-span{
+span {
     color: #2e2f42;
 }
 .nav-link {
@@ -56,11 +56,13 @@ span{
 
 }
 
-.nav-link:hover{
+.nav-link:hover {
+
 color: #404bbf;
 
 }
-.nav-link:focus{
+.nav-link:focus {
+
 color: #404bbf;
 
 }
