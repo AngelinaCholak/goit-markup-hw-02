@@ -5,7 +5,7 @@
 .list {
     list-style: none;
 }
-link{
+.link{
     text-decoration: none;
 }
 .span-portfolio{
@@ -29,18 +29,18 @@ link{
   
 }
 
-button:hover{
+.button:hover{
     color: #FFFFFF;
     background-color: #404BBF;
 
 }
-button:focus{
+.button:focus{
     color: #FFFFFF;
     background-color: #404BBF;
     
 }
 
-body{
+.body{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -49,7 +49,7 @@ body{
     line-height: 1.5;
 }
 
-text{
+.text{
     font-size: 16px;
     letter-spacing: 0.02em;
     color: #434455;
