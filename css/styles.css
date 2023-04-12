@@ -1,16 +1,30 @@
 :root{
+    --primary-brand:#4D5AE5;
+    --presse-state:#404BBF;
+    --dark:#2E2F42;
+    --success:#31D0AA;
+    --text:#434455;
+    --subtle-text:#8E8F99;
+    --accent:#E7E9FC;
+    --light:#F4F4FD;
+    --modal-overlay:#2E2F42;
+    --hero-background:#2E2F42;
+    --white-background:#FFFFFF;
+    --modal-background:#FCFCFC;
+
+
 
 }
 .body-class {
     font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
+    color: var(--text);
+    background-color: var(--white-background);
 
 }
-.body {
+body {
 font-family: "Roboto", sans-serif;
-color: #434455;
-background-color: #FFFFFF;
+color: var(--text);
+background-color: var(--white-background);
 }
 
 .link {
@@ -22,18 +36,18 @@ text-decoration: none;
 font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;
+color: var(--text);
 
 }
 
  .test-link:focus {
-    color: #404bbf;
+    color: var(--presse-state);
    
 
  }
 
 .test-link:hover { 
-    color: #404bbf;
+    color: var(--presse-state);
 
 }
 .list {
@@ -47,7 +61,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color: var(--primary-brand);
 }
 
 .address {
@@ -55,7 +69,7 @@ color: #4d5ae5;
 
 }
 span {
-    color: #2e2f42;
+    color: var(--modal-overlay);
 }
 .nav-link {
 
@@ -63,19 +77,19 @@ span {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(--dark)
 
 
 }
 
 .nav-link:hover {
 
-color: #404bbf;
+color: var(--presse-state);
 
 }
 .nav-link:focus {
 
-color: #404bbf;
+color: var(--presse-state);
 
 }
 
@@ -83,7 +97,7 @@ color: #404bbf;
 /* Section  */
 
 .section {
-    background-color: #2e2f42;
+    background-color: var(--hero-background);
 
 }
 
@@ -92,30 +106,30 @@ color: #404bbf;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color: #ffffff;
+    color: var(--white-background);
 
 }
 
 
 .button{
-    background-color: #4D5AE5;
+    background-color: var(--primary-brand);
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #ffffff;
+    color: var(--white-background);
     cursor: pointer;
     
 }
 
 
 .button:hover {
-background-color: #404BBF;
+background-color: var(--presse-state);
 
 }
 .button:focus{
-background-color: #404BBF;
+background-color: var(--presse-state);
 }
 
 /* Section 1 */
@@ -128,14 +142,14 @@ background-color: #404BBF;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: var(--dark);
  }
 
  .paragraph {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: var(--text);
  }
 /* Section 3 */
 
@@ -145,19 +159,19 @@ background-color: #404BBF;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42;
+    color: var(--dark);
 
 }
 
 /* Section 4 */
 
 .contacts{
-    background-color: #F4F4FD;
+    background-color: var(--light);
 
     
 }
 .team {
-    background-color: #FFFFFF;
+    background-color: var(--white-background);
    
 
 }
@@ -165,31 +179,20 @@ background-color: #404BBF;
 
 .footer{
 
-     background-color: #2e2f42;
+     background-color: var(--hero-background);
 
 }
 .span{
-    color:#f4f4fd;
+    color: var(--light);
   
 }
 .paragraph-contacts{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+color: var(--text);
 
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
